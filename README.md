@@ -1,2 +1,2 @@
 # HydrogenClient
-The client itself. Built off of other common hacked clients.
+The client itself. Built off of other common utility clients.
